@@ -1,5 +1,7 @@
 # Miku UI Snowland Alpha release for Nintendo Switch(icosa)
 
+![](https://github.com/AmeChanRain/MikuUI_Switch_Release/raw/main/logo.png)
+
 Sorry, no source code here, I just make it for release.
 
 ## NOTICE (IMPORTANT!)
